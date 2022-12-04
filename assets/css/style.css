@@ -133,7 +133,7 @@ body {
 
 #footertext {
     color: var(--color-main);
-    font-size: 12px;
+    font-size: 10px;
     font-weight: 300;
     line-height: 1.25;
     display: block;
